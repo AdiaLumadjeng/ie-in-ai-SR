@@ -1,4 +1,4 @@
-# ie-in-ai-SR
+# Tutorial: Symbolic Regression
 
 Welcome to this tutorial on symbolic regression! Symbolic regression offers the unique advantage of creating inherently explainable models by uncovering mathematical expressions that describe data. Once a prominent technique, it has been overshadowed by more complex methods, making it an old and forgotten child of machine learning. However, recent advancements have rekindled interest in its capabilities.
 
